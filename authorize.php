@@ -1,5 +1,4 @@
 <?php
-# this is test line for github
 /**
  * @file
  * Administrative script for running authorized file operations.
