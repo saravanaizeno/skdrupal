@@ -1,4 +1,4 @@
-#testing - 7th oct - AMOS
+#testing - 7th oct - AMOS Branch name
 <?php
 /**
  * @file
